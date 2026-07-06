@@ -1,0 +1,12 @@
+{
+  "name": "brightfuture-chat",
+  "version": "1.0.0",
+  "description": "Bright Future Live Chat System",
+  "main": "server1.js",
+  "scripts": {
+    "start": "node server1.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
